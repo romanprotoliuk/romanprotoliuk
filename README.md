@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- :computer: I’m Roman Protoliuk, Front End Engineer.
+- 💞️ I’m looking to collaborate on more projects in React.
+- 📫 How to reach me - protoliuk@gmail.com                             
+
+
 <!--
 **romanprotoliuk/romanprotoliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
