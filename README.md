@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: I’m Roman Protoliuk, Front End Engineer.
+- :computer: I’m Roman Protoliuk, Software Engineer.
 - 💞️ I’m looking to collaborate on more projects in React.
 - 📫 How to reach me - protoliuk@gmail.com                             
 
