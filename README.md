@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman Protoliuk</h1>
-<h3 align="center">A front-end developer passionate about coding, and making client ideas come true.</h3>
+<h3 align="center">Creative and committed Software Engineer with a proven track record of developing engaging user interfaces.</h3>
 
 <div align="center">
   <img src="https://assets.website-files.com/60f4af788dc31bdb2d5c8b29/614281d0332090b174c97378_Image_profile.png"
@@ -9,10 +9,6 @@
 
 <br>
 <p align="center">
-  <a href="https://github.com/romanprotoliuk" target="_blank">
-    <img alt="Github"
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/roman-protoliuk/" target="_blank">
     <img alt="Linkedin"
       src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
