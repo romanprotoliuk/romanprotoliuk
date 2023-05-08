@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roman Protoliuk</h1>
 <h3 align="center">Creative and committed Software Engineer with a proven track record of developing engaging user interfaces.</h3>
 
-<div align="center">
-  <img src="https://assets.website-files.com/60f4af788dc31bdb2d5c8b29/614281d0332090b174c97378_Image_profile.png"
-    alt="avatar" width="140" height="140" />
-</div>
-
-
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/roman-protoliuk/" target="_blank">
@@ -16,9 +10,11 @@
 </p>
 <br>
 
+<div align="center">
 - 🔭 I’m currently working at [Expedia Group](https://expediagroup.com/)
 
 - 👨‍💻 All of my projects are available at [www.romanprotoliuk.com](https://www.romanprotoliuk.com/)
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
