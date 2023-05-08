@@ -10,11 +10,11 @@
 </p>
 <br>
 
-<div align="center">
-- 🔭 I’m currently working at [Expedia Group](https://expediagroup.com/)
+<p align="center">
+🔭 I’m currently working at [Expedia Group](https://expediagroup.com/)
 
-- 👨‍💻 All of my projects are available at [www.romanprotoliuk.com](https://www.romanprotoliuk.com/)
-</div>
+👨‍💻 All of my projects are available at [www.romanprotoliuk.com](https://www.romanprotoliuk.com/)
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
