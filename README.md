@@ -11,8 +11,9 @@
 <br>
 
 <p align="center">
-🔭 I’m currently working at [Expedia Group](https://expediagroup.com/)
-
+🔭 I’m currently working at [www.expediagroup.com](https://expediagroup.com/)
+</p>
+<p align="center">
 👨‍💻 All of my projects are available at [www.romanprotoliuk.com](https://www.romanprotoliuk.com/)
 </p>
 
