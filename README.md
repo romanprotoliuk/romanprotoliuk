@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman Protoliuk</h1>
-<h3 align="center">Creative and committed Software Engineer with a proven track record of developing engaging user interfaces.</h3>
+<h3 align="center">Creative and committed Full Stack Software Engineer.</h3>
 
 <br>
 <p align="center">
