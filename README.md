@@ -1,3 +1,4 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=romanprotoliuk.romanprotoliuk)
 <h1 align="center">Hi 👋, I'm Roman Protoliuk</h1>
 <h3 align="center">Full Stack Software Engineer.</h3>
 
